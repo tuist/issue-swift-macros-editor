@@ -1,0 +1,4349 @@
+{
+  "externalDependencies" : {
+    "SwiftSyntaxMacrosTestSupport" : [
+      {
+        "project" : {
+          "target" : "SwiftSyntaxMacrosTestSupport",
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax"
+        }
+      }
+    ],
+    "SwiftRefactor" : [
+      {
+        "project" : {
+          "target" : "SwiftRefactor",
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax"
+        }
+      }
+    ],
+    "SwiftOperators" : [
+      {
+        "project" : {
+          "target" : "SwiftOperators",
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax"
+        }
+      }
+    ],
+    "SwiftParser" : [
+      {
+        "project" : {
+          "target" : "SwiftParser",
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax"
+        }
+      }
+    ],
+    "StructBuilderClient" : [
+      {
+        "project" : {
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro",
+          "target" : "StructBuilderClient"
+        }
+      }
+    ],
+    "SwiftCompilerPlugin" : [
+      {
+        "project" : {
+          "target" : "SwiftCompilerPlugin",
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax"
+        }
+      }
+    ],
+    "SwiftSyntaxMacros" : [
+      {
+        "project" : {
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax",
+          "target" : "SwiftSyntaxMacros"
+        }
+      }
+    ],
+    "SwiftSyntax" : [
+      {
+        "project" : {
+          "target" : "SwiftSyntax",
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax"
+        }
+      }
+    ],
+    "SwiftSyntaxBuilder" : [
+      {
+        "project" : {
+          "target" : "SwiftSyntaxBuilder",
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax"
+        }
+      }
+    ],
+    "SwiftCompilerPluginMessageHandling" : [
+      {
+        "project" : {
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax",
+          "target" : "SwiftCompilerPluginMessageHandling"
+        }
+      }
+    ],
+    "StructBuilder" : [
+      {
+        "project" : {
+          "target" : "StructBuilder",
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro"
+        }
+      }
+    ],
+    "SwiftSyntaxMacroExpansion" : [
+      {
+        "project" : {
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax",
+          "target" : "SwiftSyntaxMacroExpansion"
+        }
+      }
+    ],
+    "SwiftBasicFormat" : [
+      {
+        "project" : {
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax",
+          "target" : "SwiftBasicFormat"
+        }
+      }
+    ],
+    "SwiftDiagnostics" : [
+      {
+        "project" : {
+          "target" : "SwiftDiagnostics",
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax"
+        }
+      }
+    ],
+    "SwiftIDEUtils" : [
+      {
+        "project" : {
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax",
+          "target" : "SwiftIDEUtils"
+        }
+      }
+    ],
+    "SwiftParserDiagnostics" : [
+      {
+        "project" : {
+          "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax",
+          "target" : "SwiftParserDiagnostics"
+        }
+      }
+    ]
+  },
+  "externalProjects" : [
+    "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro",
+    {
+      "targets" : [
+        {
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "launchArguments" : [
+
+          ],
+          "environmentVariables" : {
+
+          },
+          "resources" : [
+
+          ],
+          "bundleId" : "StructBuilderMacro",
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro\/Sources\/StructBuilderMacro\/String+Error.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro\/Sources\/StructBuilderMacro\/BuildableMacro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro\/Sources\/StructBuilderMacro\/MemberMapper.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro\/Sources\/StructBuilderMacro\/FunctionDeclFactory.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro\/Sources\/StructBuilderMacro\/TypeMapper.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro\/Sources\/StructBuilderMacro\/VariableDeclFactory.swift"
+            }
+          ],
+          "product" : "macro",
+          "rawScriptBuildPhases" : [
+
+          ],
+          "playgrounds" : [
+
+          ],
+          "destinations" : [
+            "mac"
+          ],
+          "productName" : "StructBuilderMacro",
+          "coreDataModels" : [
+
+          ],
+          "prune" : false,
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "scripts" : [
+
+          ],
+          "additionalFiles" : [
+
+          ],
+          "mergeable" : false,
+          "name" : "StructBuilderMacro",
+          "dependencies" : [
+            {
+              "project" : {
+                "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax",
+                "target" : "SwiftSyntaxMacros"
+              }
+            },
+            {
+              "project" : {
+                "target" : "SwiftCompilerPlugin",
+                "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax"
+              }
+            }
+          ],
+          "settings" : {
+            "configurations" : [
+              {
+                "name" : "Debug",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "base" : {
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              }
+            },
+            "baseDebug" : {
+
+            },
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            }
+          },
+          "deploymentTargets" : {
+            "macOS" : "10.15"
+          },
+          "buildRules" : [
+
+          ],
+          "copyFiles" : [
+
+          ],
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          }
+        },
+        {
+          "rawScriptBuildPhases" : [
+
+          ],
+          "playgrounds" : [
+
+          ],
+          "product" : "staticFramework",
+          "copyFiles" : [
+
+          ],
+          "mergeable" : false,
+          "settings" : {
+            "base" : {
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              }
+            },
+            "configurations" : [
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "variant" : "debug",
+                "name" : "Debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            },
+            "baseDebug" : {
+
+            }
+          },
+          "prune" : false,
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro\/Sources\/StructBuilder\/StructBuilder.swift"
+            }
+          ],
+          "coreDataModels" : [
+
+          ],
+          "deploymentTargets" : {
+            "iOS" : "13.0",
+            "tvOS" : "13.0",
+            "watchOS" : "6.0",
+            "macOS" : "10.15",
+            "visionOS" : "1.0"
+          },
+          "bundleId" : "StructBuilder",
+          "destinations" : [
+            "iPad",
+            "macCatalyst",
+            "macWithiPadDesign",
+            "iPhone",
+            "appleTv",
+            "appleVision",
+            "appleVisionWithiPadDesign",
+            "appleWatch",
+            "mac"
+          ],
+          "environmentVariables" : {
+
+          },
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "StructBuilderMacro"
+              }
+            }
+          ],
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "launchArguments" : [
+
+          ],
+          "additionalFiles" : [
+
+          ],
+          "resources" : [
+
+          ],
+          "name" : "StructBuilder",
+          "buildRules" : [
+
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "scripts" : [
+
+          ],
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "productName" : "StructBuilder"
+        }
+      ],
+      "lastUpgradeCheck" : "99.9.9",
+      "packages" : [
+
+      ],
+      "filesGroup" : {
+        "group" : {
+          "name" : "Project"
+        }
+      },
+      "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro",
+      "sourceRootPath" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro",
+      "schemes" : [
+
+      ],
+      "resourceSynthesizers" : [
+        {
+          "template" : {
+            "defaultTemplate" : {
+              "_0" : "Strings"
+            }
+          },
+          "parserOptions" : {
+
+          },
+          "extensions" : [
+            "stringsdict",
+            "strings"
+          ],
+          "parser" : "strings"
+        },
+        {
+          "template" : {
+            "defaultTemplate" : {
+              "_0" : "Assets"
+            }
+          },
+          "parser" : "assets",
+          "extensions" : [
+            "xcassets"
+          ],
+          "parserOptions" : {
+
+          }
+        },
+        {
+          "parserOptions" : {
+
+          },
+          "template" : {
+            "defaultTemplate" : {
+              "_0" : "Plists"
+            }
+          },
+          "extensions" : [
+            "plist"
+          ],
+          "parser" : "plists"
+        },
+        {
+          "parser" : "fonts",
+          "parserOptions" : {
+
+          },
+          "extensions" : [
+            "otf",
+            "ttf",
+            "ttc"
+          ],
+          "template" : {
+            "defaultTemplate" : {
+              "_0" : "Fonts"
+            }
+          }
+        }
+      ],
+      "options" : {
+        "textSettings" : {
+
+        },
+        "disableShowEnvironmentVarsInScriptPhases" : false,
+        "disableBundleAccessors" : false,
+        "disableSynthesizedResourceAccessors" : true,
+        "automaticSchemesOptions" : {
+          "disabled" : {
+
+          }
+        }
+      },
+      "settings" : {
+        "base" : {
+
+        },
+        "configurations" : [
+          {
+            "variant" : "debug",
+            "name" : "Debug"
+          },
+          {
+            "settings" : {
+
+            }
+          },
+          {
+            "variant" : "debug",
+            "name" : "Development"
+          },
+          {
+            "settings" : {
+
+            }
+          }
+        ],
+        "baseDebug" : {
+
+        },
+        "defaultSettings" : {
+          "recommended" : {
+            "excluding" : [
+
+            ]
+          }
+        }
+      },
+      "xcodeProjPath" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/StructBuilderMacro\/StructBuilder.xcodeproj",
+      "name" : "StructBuilder",
+      "additionalFiles" : [
+
+      ],
+      "isExternal" : true
+    },
+    "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax",
+    {
+      "packages" : [
+
+      ],
+      "xcodeProjPath" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/swift-syntax.xcodeproj",
+      "settings" : {
+        "baseDebug" : {
+
+        },
+        "base" : {
+
+        },
+        "configurations" : [
+          {
+            "variant" : "debug",
+            "name" : "Debug"
+          },
+          {
+            "settings" : {
+
+            }
+          },
+          {
+            "variant" : "debug",
+            "name" : "Development"
+          },
+          {
+            "settings" : {
+
+            }
+          }
+        ],
+        "defaultSettings" : {
+          "recommended" : {
+            "excluding" : [
+
+            ]
+          }
+        }
+      },
+      "sourceRootPath" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax",
+      "lastUpgradeCheck" : "99.9.9",
+      "resourceSynthesizers" : [
+        {
+          "template" : {
+            "defaultTemplate" : {
+              "_0" : "Strings"
+            }
+          },
+          "extensions" : [
+            "strings",
+            "stringsdict"
+          ],
+          "parser" : "strings",
+          "parserOptions" : {
+
+          }
+        },
+        {
+          "extensions" : [
+            "xcassets"
+          ],
+          "parserOptions" : {
+
+          },
+          "parser" : "assets",
+          "template" : {
+            "defaultTemplate" : {
+              "_0" : "Assets"
+            }
+          }
+        },
+        {
+          "template" : {
+            "defaultTemplate" : {
+              "_0" : "Plists"
+            }
+          },
+          "parser" : "plists",
+          "extensions" : [
+            "plist"
+          ],
+          "parserOptions" : {
+
+          }
+        },
+        {
+          "template" : {
+            "defaultTemplate" : {
+              "_0" : "Fonts"
+            }
+          },
+          "parserOptions" : {
+
+          },
+          "extensions" : [
+            "otf",
+            "ttc",
+            "ttf"
+          ],
+          "parser" : "fonts"
+        }
+      ],
+      "name" : "swift-syntax",
+      "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax",
+      "schemes" : [
+
+      ],
+      "options" : {
+        "disableShowEnvironmentVarsInScriptPhases" : false,
+        "textSettings" : {
+
+        },
+        "disableSynthesizedResourceAccessors" : true,
+        "automaticSchemesOptions" : {
+          "disabled" : {
+
+          }
+        },
+        "disableBundleAccessors" : false
+      },
+      "additionalFiles" : [
+
+      ],
+      "isExternal" : true,
+      "targets" : [
+        {
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "playgrounds" : [
+
+          ],
+          "copyFiles" : [
+
+          ],
+          "prune" : false,
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "name" : "_SwiftSyntaxTestSupport",
+          "product" : "staticFramework",
+          "settings" : {
+            "base" : {
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              }
+            },
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            },
+            "configurations" : [
+              {
+                "variant" : "debug",
+                "name" : "Debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "baseDebug" : {
+
+            }
+          },
+          "deploymentTargets" : {
+            "watchOS" : "6.0",
+            "tvOS" : "13.0",
+            "iOS" : "13.0",
+            "macOS" : "10.15",
+            "visionOS" : "1.0"
+          },
+          "launchArguments" : [
+
+          ],
+          "mergeable" : false,
+          "buildRules" : [
+
+          ],
+          "coreDataModels" : [
+
+          ],
+          "scripts" : [
+
+          ],
+          "resources" : [
+
+          ],
+          "destinations" : [
+            "macCatalyst",
+            "appleVisionWithiPadDesign",
+            "macWithiPadDesign",
+            "appleVision",
+            "mac",
+            "iPad",
+            "appleTv",
+            "appleWatch",
+            "iPhone"
+          ],
+          "rawScriptBuildPhases" : [
+
+          ],
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/_SwiftSyntaxTestSupport\/SyntaxCollection+AtIndex.swift.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/_SwiftSyntaxTestSupport\/SyntaxComparison.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/_SwiftSyntaxTestSupport\/LocationMarkers.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/_SwiftSyntaxTestSupport\/IncrementalParseTestUtils.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/_SwiftSyntaxTestSupport\/AssertEqualWithDiff.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/_SwiftSyntaxTestSupport\/Syntax+Assertions.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/_SwiftSyntaxTestSupport\/String+TrimmingTrailingWhitespace.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/_SwiftSyntaxTestSupport\/SyntaxProtocol+Initializer.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/_SwiftSyntaxTestSupport\/TestUtils.swift"
+            }
+          ],
+          "environmentVariables" : {
+
+          },
+          "additionalFiles" : [
+
+          ],
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftBasicFormat"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntaxBuilder"
+              }
+            }
+          ],
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "bundleId" : ".SwiftSyntaxTestSupport",
+          "productName" : "_SwiftSyntaxTestSupport"
+        },
+        {
+          "launchArguments" : [
+
+          ],
+          "productName" : "SwiftBasicFormat",
+          "destinations" : [
+            "iPad",
+            "appleTv",
+            "macWithiPadDesign",
+            "appleWatch",
+            "iPhone",
+            "macCatalyst",
+            "mac",
+            "appleVision",
+            "appleVisionWithiPadDesign"
+          ],
+          "name" : "SwiftBasicFormat",
+          "copyFiles" : [
+
+          ],
+          "bundleId" : "SwiftBasicFormat",
+          "product" : "staticFramework",
+          "rawScriptBuildPhases" : [
+
+          ],
+          "scripts" : [
+
+          ],
+          "additionalFiles" : [
+
+          ],
+          "buildRules" : [
+
+          ],
+          "settings" : {
+            "base" : {
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              }
+            },
+            "configurations" : [
+              {
+                "name" : "Debug",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "variant" : "debug",
+                "name" : "Development"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "baseDebug" : {
+
+            },
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            }
+          },
+          "deploymentTargets" : {
+            "macOS" : "10.15",
+            "iOS" : "13.0",
+            "watchOS" : "6.0",
+            "tvOS" : "13.0",
+            "visionOS" : "1.0"
+          },
+          "prune" : false,
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "coreDataModels" : [
+
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "environmentVariables" : {
+
+          },
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "resources" : [
+
+          ],
+          "playgrounds" : [
+
+          ],
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            }
+          ],
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftBasicFormat\/BasicFormat.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftBasicFormat\/SwiftBasicFormat.docc"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftBasicFormat\/SyntaxProtocol+Formatted.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftBasicFormat\/Trivia+FormatExtensions.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftBasicFormat\/Syntax+Extensions.swift"
+            }
+          ],
+          "mergeable" : false
+        },
+        {
+          "destinations" : [
+            "mac",
+            "macCatalyst",
+            "appleWatch",
+            "iPhone",
+            "macWithiPadDesign",
+            "iPad",
+            "appleTv",
+            "appleVision",
+            "appleVisionWithiPadDesign"
+          ],
+          "rawScriptBuildPhases" : [
+
+          ],
+          "deploymentTargets" : {
+            "tvOS" : "13.0",
+            "watchOS" : "6.0",
+            "iOS" : "13.0",
+            "macOS" : "10.15",
+            "visionOS" : "1.0"
+          },
+          "prune" : false,
+          "scripts" : [
+
+          ],
+          "product" : "staticFramework",
+          "coreDataModels" : [
+
+          ],
+          "environmentVariables" : {
+
+          },
+          "productName" : "SwiftCompilerPlugin",
+          "launchArguments" : [
+
+          ],
+          "mergeable" : false,
+          "name" : "SwiftCompilerPlugin",
+          "additionalFiles" : [
+
+          ],
+          "buildRules" : [
+
+          ],
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "copyFiles" : [
+
+          ],
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "bundleId" : "SwiftCompilerPlugin",
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftCompilerPluginMessageHandling"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntaxMacros"
+              }
+            }
+          ],
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftCompilerPlugin\/CompilerPlugin.swift"
+            }
+          ],
+          "settings" : {
+            "base" : {
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              }
+            },
+            "baseDebug" : {
+
+            },
+            "configurations" : [
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Debug",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            }
+          },
+          "resources" : [
+
+          ],
+          "playgrounds" : [
+
+          ]
+        },
+        {
+          "bundleId" : "SwiftCompilerPluginMessageHandling",
+          "deploymentTargets" : {
+            "visionOS" : "1.0",
+            "tvOS" : "13.0",
+            "iOS" : "13.0",
+            "macOS" : "10.15",
+            "watchOS" : "6.0"
+          },
+          "buildRules" : [
+
+          ],
+          "additionalFiles" : [
+
+          ],
+          "mergeable" : false,
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftDiagnostics"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftOperators"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftParser"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntaxMacros"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntaxMacroExpansion"
+              }
+            }
+          ],
+          "prune" : false,
+          "resources" : [
+
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "copyFiles" : [
+
+          ],
+          "product" : "staticFramework",
+          "name" : "SwiftCompilerPluginMessageHandling",
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftCompilerPluginMessageHandling\/CompilerPluginMessageHandler.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftCompilerPluginMessageHandling\/PluginMessageCompatibility.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftCompilerPluginMessageHandling\/Macros.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftCompilerPluginMessageHandling\/PluginMacroExpansionContext.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftCompilerPluginMessageHandling\/Diagnostics.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftCompilerPluginMessageHandling\/PluginMessages.swift"
+            }
+          ],
+          "productName" : "SwiftCompilerPluginMessageHandling",
+          "coreDataModels" : [
+
+          ],
+          "scripts" : [
+
+          ],
+          "settings" : {
+            "base" : {
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              }
+            },
+            "baseDebug" : {
+
+            },
+            "configurations" : [
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Debug",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            }
+          },
+          "destinations" : [
+            "iPad",
+            "mac",
+            "appleTv",
+            "macWithiPadDesign",
+            "iPhone",
+            "appleWatch",
+            "appleVision",
+            "appleVisionWithiPadDesign",
+            "macCatalyst"
+          ],
+          "environmentVariables" : {
+
+          },
+          "rawScriptBuildPhases" : [
+
+          ],
+          "playgrounds" : [
+
+          ],
+          "launchArguments" : [
+
+          ],
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          }
+        },
+        {
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            }
+          ],
+          "additionalFiles" : [
+
+          ],
+          "prune" : false,
+          "mergeable" : false,
+          "buildRules" : [
+
+          ],
+          "launchArguments" : [
+
+          ],
+          "name" : "SwiftDiagnostics",
+          "copyFiles" : [
+
+          ],
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "bundleId" : "SwiftDiagnostics",
+          "deploymentTargets" : {
+            "visionOS" : "1.0",
+            "watchOS" : "6.0",
+            "tvOS" : "13.0",
+            "iOS" : "13.0",
+            "macOS" : "10.15"
+          },
+          "resources" : [
+
+          ],
+          "productName" : "SwiftDiagnostics",
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "destinations" : [
+            "appleWatch",
+            "macWithiPadDesign",
+            "iPad",
+            "appleVision",
+            "appleTv",
+            "appleVisionWithiPadDesign",
+            "macCatalyst",
+            "mac",
+            "iPhone"
+          ],
+          "rawScriptBuildPhases" : [
+
+          ],
+          "coreDataModels" : [
+
+          ],
+          "product" : "staticFramework",
+          "environmentVariables" : {
+
+          },
+          "settings" : {
+            "configurations" : [
+              {
+                "variant" : "debug",
+                "name" : "Development"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "variant" : "debug",
+                "name" : "Debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "base" : {
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              }
+            },
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            },
+            "baseDebug" : {
+
+            }
+          },
+          "playgrounds" : [
+
+          ],
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftDiagnostics\/GroupedDiagnostics.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftDiagnostics\/Note.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftDiagnostics\/FixIt.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftDiagnostics\/Convenience.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftDiagnostics\/Diagnostic.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftDiagnostics\/DiagnosticsFormatter.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftDiagnostics\/Message.swift"
+            }
+          ],
+          "scripts" : [
+
+          ]
+        },
+        {
+          "coreDataModels" : [
+
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "productName" : "SwiftIDEUtils",
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "destinations" : [
+            "macCatalyst",
+            "macWithiPadDesign",
+            "iPhone",
+            "iPad",
+            "appleTv",
+            "mac",
+            "appleVisionWithiPadDesign",
+            "appleVision",
+            "appleWatch"
+          ],
+          "deploymentTargets" : {
+            "macOS" : "10.15",
+            "iOS" : "13.0",
+            "tvOS" : "13.0",
+            "watchOS" : "6.0",
+            "visionOS" : "1.0"
+          },
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "name" : "SwiftIDEUtils",
+          "prune" : false,
+          "launchArguments" : [
+
+          ],
+          "additionalFiles" : [
+
+          ],
+          "resources" : [
+
+          ],
+          "environmentVariables" : {
+
+          },
+          "copyFiles" : [
+
+          ],
+          "rawScriptBuildPhases" : [
+
+          ],
+          "playgrounds" : [
+
+          ],
+          "buildRules" : [
+
+          ],
+          "bundleId" : "SwiftIDEUtils",
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            }
+          ],
+          "settings" : {
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            },
+            "base" : {
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              }
+            },
+            "baseDebug" : {
+
+            },
+            "configurations" : [
+              {
+                "name" : "Debug",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ]
+          },
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftIDEUtils\/SwiftIDEUtilsCompatibility.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftIDEUtils\/SyntaxClassifier.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftIDEUtils\/SyntaxClassification.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftIDEUtils\/Syntax+Classifications.swift"
+            }
+          ],
+          "scripts" : [
+
+          ],
+          "product" : "staticFramework",
+          "mergeable" : false
+        },
+        {
+          "rawScriptBuildPhases" : [
+
+          ],
+          "productName" : "SwiftSyntax",
+          "name" : "SwiftSyntax",
+          "playgrounds" : [
+
+          ],
+          "buildRules" : [
+
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "launchArguments" : [
+
+          ],
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/SourcePresence.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/TokenDiagnostic.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/AbsolutePosition.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/Raw\/RawSyntaxLayoutView.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/TokenSyntax.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/SyntaxCollection.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/TokenKind.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/RenamedNodesCompatibility.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/Documentation.docc"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/Raw\/RawSyntaxNodeProtocol.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/SyntaxAnyVisitor.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/SourceLength.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/BumpPtrAllocator.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/Assert.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/Utils.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/SyntaxVisitor.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/SyntaxEnum.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/TriviaPieces.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/SyntaxBaseNodes.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/MemoryLayout.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/SyntaxTraits.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/SyntaxCollections.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/Raw\/RawSyntaxTokenView.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/SyntaxArena.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/SyntaxText.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/SourceLocation.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/Raw\/RawSyntax.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/syntaxNodes\/SyntaxNodes.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/MissingNodeInitializers.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/SyntaxData.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/syntaxNodes\/SyntaxTypeNodes.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/SyntaxChildren.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/syntaxNodes\/SyntaxExprNodes.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/raw\/RawSyntaxValidation.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/Keyword.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/SwiftSyntaxCompatibility.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/SyntaxRewriter.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/syntaxNodes\/SyntaxPatternNodes.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/Tokens.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/SyntaxKind.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/Syntax.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/Convenience.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/Trivia.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/ChildNameForKeyPath.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/syntaxNodes\/SyntaxDeclNodes.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/syntaxNodes\/SyntaxStmtNodes.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/SyntaxTransform.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/CommonAncestor.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/RenamedChildrenCompatibility.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/SyntaxTreeViewMode.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax\/generated\/raw\/RawSyntaxNodes.swift"
+            }
+          ],
+          "prune" : false,
+          "copyFiles" : [
+
+          ],
+          "additionalFiles" : [
+
+          ],
+          "product" : "staticFramework",
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftSyntax509"
+              }
+            }
+          ],
+          "destinations" : [
+            "appleVisionWithiPadDesign",
+            "appleWatch",
+            "macCatalyst",
+            "iPhone",
+            "appleTv",
+            "appleVision",
+            "macWithiPadDesign",
+            "mac",
+            "iPad"
+          ],
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "mergeable" : false,
+          "resources" : [
+
+          ],
+          "settings" : {
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            },
+            "base" : {
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              }
+            },
+            "configurations" : [
+              {
+                "variant" : "debug",
+                "name" : "Development"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Debug",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "baseDebug" : {
+
+            }
+          },
+          "bundleId" : "SwiftSyntax",
+          "deploymentTargets" : {
+            "tvOS" : "13.0",
+            "iOS" : "13.0",
+            "macOS" : "10.15",
+            "watchOS" : "6.0",
+            "visionOS" : "1.0"
+          },
+          "coreDataModels" : [
+
+          ],
+          "scripts" : [
+
+          ],
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "environmentVariables" : {
+
+          }
+        },
+        {
+          "product" : "staticFramework",
+          "coreDataModels" : [
+
+          ],
+          "name" : "SwiftSyntax509",
+          "deploymentTargets" : {
+            "watchOS" : "6.0",
+            "tvOS" : "13.0",
+            "iOS" : "13.0",
+            "macOS" : "10.15",
+            "visionOS" : "1.0"
+          },
+          "bundleId" : "SwiftSyntax509",
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntax509\/Empty.swift"
+            }
+          ],
+          "resources" : [
+
+          ],
+          "additionalFiles" : [
+
+          ],
+          "copyFiles" : [
+
+          ],
+          "settings" : {
+            "base" : {
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              }
+            },
+            "configurations" : [
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "variant" : "debug",
+                "name" : "Debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "baseDebug" : {
+
+            },
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            }
+          },
+          "playgrounds" : [
+
+          ],
+          "productName" : "SwiftSyntax509",
+          "scripts" : [
+
+          ],
+          "environmentVariables" : {
+
+          },
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "rawScriptBuildPhases" : [
+
+          ],
+          "destinations" : [
+            "appleWatch",
+            "appleVision",
+            "macCatalyst",
+            "mac",
+            "appleVisionWithiPadDesign",
+            "macWithiPadDesign",
+            "iPhone",
+            "appleTv",
+            "iPad"
+          ],
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "dependencies" : [
+
+          ],
+          "launchArguments" : [
+
+          ],
+          "buildRules" : [
+
+          ],
+          "prune" : false,
+          "mergeable" : false
+        },
+        {
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/Documentation.docc"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/SwiftSyntaxBuilderCompatibility.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/ResultBuilderExtensions.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/generated\/RenamedChildrenBuilderCompatibility.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/Syntax+StringInterpolation.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/DeclSyntaxParseable.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/generated\/SyntaxExpressibleByStringInterpolationConformances.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/ConvenienceInitializers.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/generated\/ResultBuilders.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/ValidatingSyntaxNodes.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/SyntaxNodeWithBody.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/SyntaxParsable+ExpressibleByStringInterpolation.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/Indenter.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/generated\/BuildableNodes.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxBuilder\/WithTrailingCommaSyntax+EnsuringTrailingComma.swift"
+            }
+          ],
+          "rawScriptBuildPhases" : [
+
+          ],
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "additionalFiles" : [
+
+          ],
+          "coreDataModels" : [
+
+          ],
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "environmentVariables" : {
+
+          },
+          "buildRules" : [
+
+          ],
+          "playgrounds" : [
+
+          ],
+          "launchArguments" : [
+
+          ],
+          "name" : "SwiftSyntaxBuilder",
+          "bundleId" : "SwiftSyntaxBuilder",
+          "resources" : [
+
+          ],
+          "copyFiles" : [
+
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "productName" : "SwiftSyntaxBuilder",
+          "settings" : {
+            "base" : {
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              }
+            },
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            },
+            "baseDebug" : {
+
+            },
+            "configurations" : [
+              {
+                "variant" : "debug",
+                "name" : "Debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "variant" : "debug",
+                "name" : "Development"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ]
+          },
+          "mergeable" : false,
+          "prune" : false,
+          "scripts" : [
+
+          ],
+          "deploymentTargets" : {
+            "watchOS" : "6.0",
+            "iOS" : "13.0",
+            "tvOS" : "13.0",
+            "macOS" : "10.15",
+            "visionOS" : "1.0"
+          },
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftBasicFormat"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftParser"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftDiagnostics"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftParserDiagnostics"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            }
+          ],
+          "destinations" : [
+            "appleTv",
+            "mac",
+            "appleVisionWithiPadDesign",
+            "macWithiPadDesign",
+            "macCatalyst",
+            "appleVision",
+            "appleWatch",
+            "iPhone",
+            "iPad"
+          ],
+          "product" : "staticFramework"
+        },
+        {
+          "resources" : [
+
+          ],
+          "product" : "staticFramework",
+          "launchArguments" : [
+
+          ],
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/DeclarationMacro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/MemberMacro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/SwiftSyntaxMacros.docc"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/FreestandingMacro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/AccessorMacro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/MemberAttributeMacro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/ExpressionMacro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/PeerMacro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/Macro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroExpansionContext.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/ExtensionMacro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/AttachedMacro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/AbstractSourceLocation.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/CodeItemMacro.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacros\/MacroProtocols\/Macro+Format.swift"
+            }
+          ],
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "bundleId" : "SwiftSyntaxMacros",
+          "scripts" : [
+
+          ],
+          "rawScriptBuildPhases" : [
+
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "prune" : false,
+          "productName" : "SwiftSyntaxMacros",
+          "coreDataModels" : [
+
+          ],
+          "environmentVariables" : {
+
+          },
+          "additionalFiles" : [
+
+          ],
+          "deploymentTargets" : {
+            "macOS" : "10.15",
+            "visionOS" : "1.0",
+            "tvOS" : "13.0",
+            "iOS" : "13.0",
+            "watchOS" : "6.0"
+          },
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftDiagnostics"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftParser"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntaxBuilder"
+              }
+            }
+          ],
+          "destinations" : [
+            "mac",
+            "appleWatch",
+            "macCatalyst",
+            "iPhone",
+            "iPad",
+            "appleVisionWithiPadDesign",
+            "macWithiPadDesign",
+            "appleTv",
+            "appleVision"
+          ],
+          "name" : "SwiftSyntaxMacros",
+          "buildRules" : [
+
+          ],
+          "copyFiles" : [
+
+          ],
+          "mergeable" : false,
+          "settings" : {
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            },
+            "configurations" : [
+              {
+                "variant" : "debug",
+                "name" : "Debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "base" : {
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              }
+            },
+            "baseDebug" : {
+
+            }
+          },
+          "playgrounds" : [
+
+          ]
+        },
+        {
+          "rawScriptBuildPhases" : [
+
+          ],
+          "settings" : {
+            "base" : {
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              }
+            },
+            "baseDebug" : {
+
+            },
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            },
+            "configurations" : [
+              {
+                "variant" : "debug",
+                "name" : "Debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ]
+          },
+          "scripts" : [
+
+          ],
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntaxBuilder"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntaxMacros"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftDiagnostics"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftOperators"
+              }
+            }
+          ],
+          "additionalFiles" : [
+
+          ],
+          "prune" : false,
+          "deploymentTargets" : {
+            "tvOS" : "13.0",
+            "visionOS" : "1.0",
+            "macOS" : "10.15",
+            "watchOS" : "6.0",
+            "iOS" : "13.0"
+          },
+          "buildRules" : [
+
+          ],
+          "playgrounds" : [
+
+          ],
+          "copyFiles" : [
+
+          ],
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacroExpansion\/MacroExpansion.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacroExpansion\/FunctionParameterUtils.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacroExpansion\/MacroSystem.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacroExpansion\/MacroExpansionDiagnosticMessages.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacroExpansion\/BasicMacroExpansionContext.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacroExpansion\/MacroReplacement.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacroExpansion\/IndentationUtils.swift"
+            }
+          ],
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "name" : "SwiftSyntaxMacroExpansion",
+          "product" : "staticFramework",
+          "destinations" : [
+            "macCatalyst",
+            "appleVision",
+            "appleWatch",
+            "macWithiPadDesign",
+            "appleVisionWithiPadDesign",
+            "mac",
+            "appleTv",
+            "iPhone",
+            "iPad"
+          ],
+          "bundleId" : "SwiftSyntaxMacroExpansion",
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "productName" : "SwiftSyntaxMacroExpansion",
+          "coreDataModels" : [
+
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "environmentVariables" : {
+
+          },
+          "launchArguments" : [
+
+          ],
+          "mergeable" : false,
+          "resources" : [
+
+          ]
+        },
+        {
+          "name" : "SwiftSyntaxMacrosTestSupport",
+          "scripts" : [
+
+          ],
+          "playgrounds" : [
+
+          ],
+          "product" : "staticFramework",
+          "settings" : {
+            "configurations" : [
+              {
+                "variant" : "debug",
+                "name" : "Debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "variant" : "debug",
+                "name" : "Development"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "baseDebug" : {
+
+            },
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            },
+            "base" : {
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              }
+            }
+          },
+          "bundleId" : "SwiftSyntaxMacrosTestSupport",
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "rawScriptBuildPhases" : [
+
+          ],
+          "copyFiles" : [
+
+          ],
+          "additionalFiles" : [
+
+          ],
+          "buildRules" : [
+
+          ],
+          "prune" : false,
+          "resources" : [
+
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "deploymentTargets" : {
+            "visionOS" : "1.0",
+            "macOS" : "10.15",
+            "iOS" : "13.0",
+            "watchOS" : "6.0",
+            "tvOS" : "13.0"
+          },
+          "launchArguments" : [
+
+          ],
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftSyntaxMacrosTestSupport\/Assertions.swift"
+            }
+          ],
+          "destinations" : [
+            "appleTv",
+            "iPad",
+            "macCatalyst",
+            "mac",
+            "macWithiPadDesign",
+            "appleVisionWithiPadDesign",
+            "appleWatch",
+            "iPhone",
+            "appleVision"
+          ],
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "_SwiftSyntaxTestSupport"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftDiagnostics"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftParser"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntaxMacros"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntaxMacroExpansion"
+              }
+            }
+          ],
+          "mergeable" : false,
+          "productName" : "SwiftSyntaxMacrosTestSupport",
+          "environmentVariables" : {
+
+          },
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "coreDataModels" : [
+
+          ]
+        },
+        {
+          "mergeable" : false,
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            }
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "scripts" : [
+
+          ],
+          "copyFiles" : [
+
+          ],
+          "environmentVariables" : {
+
+          },
+          "destinations" : [
+            "appleTv",
+            "mac",
+            "appleWatch",
+            "macCatalyst",
+            "appleVision",
+            "iPhone",
+            "iPad",
+            "macWithiPadDesign",
+            "appleVisionWithiPadDesign"
+          ],
+          "launchArguments" : [
+
+          ],
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "prune" : false,
+          "resources" : [
+
+          ],
+          "product" : "staticFramework",
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/generated\/LayoutNodes+Parsable.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Lexer\/UnicodeScalarExtensions.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/TokenSpec.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Lexer\/Cursor.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/TokenConsumer.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/LoopProgressCondition.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Types.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/generated\/TokenSpecStaticMembers.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/CharacterInfo.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/ParseSourceFile.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Attributes.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/TokenSpecSet.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/SyntaxUtils.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/generated\/Parser+TokenSpecSet.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Lexer\/Lexer.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/SwiftParserCompatibility.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Lookahead.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Patterns.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Specifiers.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/TopLevel.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Lexer\/LexemeSequence.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Lexer\/Lexeme.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/TriviaParser.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/IncrementalParseTransition.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/generated\/IsLexerClassified.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/StringLiterals.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Recovery.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Lexer\/RegexLiteralLexer.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Statements.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Expressions.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Declarations.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Modifiers.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/CollectionNodes+Parsable.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/ExperimentalFeatures.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Availability.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Directives.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Parameters.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Names.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/StringLiteralRepresentedLiteralValue.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Parser.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/SwiftParser.docc"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/TokenPrecedence.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParser\/Nominals.swift"
+            }
+          ],
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "bundleId" : "SwiftParser",
+          "settings" : {
+            "baseDebug" : {
+
+            },
+            "base" : {
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              }
+            },
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            },
+            "configurations" : [
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Debug",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ]
+          },
+          "productName" : "SwiftParser",
+          "coreDataModels" : [
+
+          ],
+          "additionalFiles" : [
+
+          ],
+          "rawScriptBuildPhases" : [
+
+          ],
+          "name" : "SwiftParser",
+          "deploymentTargets" : {
+            "iOS" : "13.0",
+            "visionOS" : "1.0",
+            "watchOS" : "6.0",
+            "macOS" : "10.15",
+            "tvOS" : "13.0"
+          },
+          "buildRules" : [
+
+          ],
+          "playgrounds" : [
+
+          ]
+        },
+        {
+          "playgrounds" : [
+
+          ],
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftBasicFormat"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftDiagnostics"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftParser"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            }
+          ],
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "coreDataModels" : [
+
+          ],
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/PresenceUtils.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/MissingTokenError.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/generated\/ChildNameForDiagnostics.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/MultiLineStringLiteralDiagnosticsGenerator.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/Utils.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/ParseDiagnosticsGenerator.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/LexerDiagnosticMessages.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/generated\/SyntaxKindNameForDiagnostics.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/generated\/TokenNameForDiagnostics.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/SyntaxExtensions.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/MissingNodesError.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/DiagnosticExtensions.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftParserDiagnostics\/ParserDiagnosticMessages.swift"
+            }
+          ],
+          "environmentVariables" : {
+
+          },
+          "rawScriptBuildPhases" : [
+
+          ],
+          "buildRules" : [
+
+          ],
+          "mergeable" : false,
+          "productName" : "SwiftParserDiagnostics",
+          "bundleId" : "SwiftParserDiagnostics",
+          "additionalFiles" : [
+
+          ],
+          "deploymentTargets" : {
+            "iOS" : "13.0",
+            "tvOS" : "13.0",
+            "visionOS" : "1.0",
+            "macOS" : "10.15",
+            "watchOS" : "6.0"
+          },
+          "resources" : [
+
+          ],
+          "destinations" : [
+            "appleTv",
+            "macWithiPadDesign",
+            "iPhone",
+            "macCatalyst",
+            "iPad",
+            "appleVision",
+            "appleVisionWithiPadDesign",
+            "mac",
+            "appleWatch"
+          ],
+          "launchArguments" : [
+
+          ],
+          "scripts" : [
+
+          ],
+          "settings" : {
+            "baseDebug" : {
+
+            },
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            },
+            "base" : {
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              }
+            },
+            "configurations" : [
+              {
+                "variant" : "debug",
+                "name" : "Debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ]
+          },
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "prune" : false,
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "product" : "staticFramework",
+          "copyFiles" : [
+
+          ],
+          "name" : "SwiftParserDiagnostics"
+        },
+        {
+          "deploymentTargets" : {
+            "visionOS" : "1.0",
+            "macOS" : "10.15",
+            "iOS" : "13.0",
+            "watchOS" : "6.0",
+            "tvOS" : "13.0"
+          },
+          "bundleId" : "SwiftOperators",
+          "scripts" : [
+
+          ],
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "rawScriptBuildPhases" : [
+
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "product" : "staticFramework",
+          "mergeable" : false,
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "destinations" : [
+            "macWithiPadDesign",
+            "appleTv",
+            "iPhone",
+            "appleVisionWithiPadDesign",
+            "appleWatch",
+            "iPad",
+            "appleVision",
+            "macCatalyst",
+            "mac"
+          ],
+          "name" : "SwiftOperators",
+          "copyFiles" : [
+
+          ],
+          "resources" : [
+
+          ],
+          "buildRules" : [
+
+          ],
+          "settings" : {
+            "baseDebug" : {
+
+            },
+            "base" : {
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              }
+            },
+            "configurations" : [
+              {
+                "name" : "Debug",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            }
+          },
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftOperators\/OperatorTable+Folding.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftOperators\/PrecedenceGraph.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftOperators\/SyntaxSynthesis.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftOperators\/OperatorTable.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftOperators\/OperatorError+Diagnostics.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftOperators\/OperatorTable+Semantics.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftOperators\/OperatorError.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftOperators\/Operator.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftOperators\/OperatorTable+Defaults.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftOperators\/SwiftOperators.docc"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftOperators\/PrecedenceGroup.swift"
+            }
+          ],
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftDiagnostics"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftParser"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            }
+          ],
+          "coreDataModels" : [
+
+          ],
+          "productName" : "SwiftOperators",
+          "environmentVariables" : {
+
+          },
+          "playgrounds" : [
+
+          ],
+          "prune" : false,
+          "launchArguments" : [
+
+          ],
+          "additionalFiles" : [
+
+          ]
+        },
+        {
+          "sources" : [
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftRefactor\/AddSeparatorsToIntegerLiteral.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftRefactor\/CallToTrailingClosures.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftRefactor\/OpaqueParameterToGeneric.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftRefactor\/RefactoringProvider.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftRefactor\/RemoveSeparatorsFromIntegerLiteral.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftRefactor\/MigrateToNewIfLetSyntax.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftRefactor\/FormatRawStringLiteral.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftRefactor\/IntegerLiteralUtilities.swift"
+            },
+            {
+              "path" : "\/Users\/pepicrft\/Downloads\/SwiftMacrosProject\/Tuist\/Dependencies\/SwiftPackageManager\/.build\/checkouts\/swift-syntax\/Sources\/SwiftRefactor\/ExpandEditorPlaceholder.swift"
+            }
+          ],
+          "infoPlist" : {
+            "extendingDefault" : {
+              "with" : {
+
+              }
+            }
+          },
+          "copyFiles" : [
+
+          ],
+          "product" : "staticFramework",
+          "buildRules" : [
+
+          ],
+          "dependencies" : [
+            {
+              "target" : {
+                "name" : "SwiftBasicFormat"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftParser"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntax"
+              }
+            },
+            {
+              "target" : {
+                "name" : "SwiftSyntaxBuilder"
+              }
+            }
+          ],
+          "scripts" : [
+
+          ],
+          "mergedBinaryType" : {
+            "disabled" : {
+
+            }
+          },
+          "destinations" : [
+            "appleTv",
+            "appleVisionWithiPadDesign",
+            "macCatalyst",
+            "iPad",
+            "mac",
+            "macWithiPadDesign",
+            "appleVision",
+            "appleWatch",
+            "iPhone"
+          ],
+          "deploymentTargets" : {
+            "macOS" : "10.15",
+            "watchOS" : "6.0",
+            "tvOS" : "13.0",
+            "iOS" : "13.0",
+            "visionOS" : "1.0"
+          },
+          "coreDataModels" : [
+
+          ],
+          "productName" : "SwiftRefactor",
+          "bundleId" : "SwiftRefactor",
+          "filesGroup" : {
+            "group" : {
+              "name" : "Project"
+            }
+          },
+          "playgrounds" : [
+
+          ],
+          "name" : "SwiftRefactor",
+          "environmentVariables" : {
+
+          },
+          "launchArguments" : [
+
+          ],
+          "prune" : false,
+          "mergeable" : false,
+          "additionalFiles" : [
+
+          ],
+          "resources" : [
+
+          ],
+          "settings" : {
+            "configurations" : [
+              {
+                "name" : "Debug",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              },
+              {
+                "name" : "Development",
+                "variant" : "debug"
+              },
+              {
+                "settings" : {
+
+                }
+              }
+            ],
+            "base" : {
+              "GCC_WARN_INHIBIT_ALL_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_NO_COMMON_BLOCKS" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "GCC_PREPROCESSOR_DEFINITIONS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "SWIFT_PACKAGE=1"
+                  ]
+                }
+              },
+              "ENABLE_STRICT_OBJC_MSGSEND" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : {
+                "string" : {
+                  "_0" : "$(inherited) SWIFT_PACKAGE"
+                }
+              },
+              "FRAMEWORK_SEARCH_PATHS" : {
+                "array" : {
+                  "_0" : [
+                    "$(inherited)",
+                    "$(PLATFORM_DIR)\/Developer\/Library\/Frameworks"
+                  ]
+                }
+              },
+              "CLANG_ENABLE_OBJC_WEAK" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "USE_HEADERMAP" : {
+                "string" : {
+                  "_0" : "NO"
+                }
+              },
+              "ALWAYS_SEARCH_USER_PATHS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              },
+              "SWIFT_SUPPRESS_WARNINGS" : {
+                "string" : {
+                  "_0" : "YES"
+                }
+              }
+            },
+            "baseDebug" : {
+
+            },
+            "defaultSettings" : {
+              "recommended" : {
+                "excluding" : [
+
+                ]
+              }
+            }
+          },
+          "rawScriptBuildPhases" : [
+
+          ]
+        }
+      ],
+      "filesGroup" : {
+        "group" : {
+          "name" : "Project"
+        }
+      }
+    }
+  ]
+}

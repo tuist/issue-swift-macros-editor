@@ -1,0 +1,44 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "structbuildermacro",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/alschmut/StructBuilderMacro",
+          "name" : "StructBuilder"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "aa0029efe02ce198ebecb2905f67c6340b7d6bb2",
+            "version" : "0.2.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "StructBuilderMacro"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-syntax",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-syntax.git",
+          "name" : "swift-syntax"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "64889f0c732f210a935a0ad7cda38f77f876262d",
+            "version" : "509.1.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-syntax"
+      }
+    ]
+  },
+  "version" : 6
+}
